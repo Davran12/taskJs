@@ -1,0 +1,64 @@
+{
+  "sell": [
+    {
+      "bookName": "iPhone 14 Pro Max",
+      "bookImg": "https://object.pscloud.io/cms/cms/Photo/img_0_77_3819_4_6.webp",
+      "bookPrice": "85000 ",
+      "id": 1
+    },
+    {
+      "bookName": "iPhone 13 Pro Max",
+      "bookImg": "https://object.pscloud.io/cms/cms/Photo/img_0_77_3176_2_1.jpg",
+      "bookPrice": "75000",
+      "id": 2
+    },
+    {
+      "bookName": "iPhone 15 Pro Max",
+      "bookImg": "https://object.pscloud.io/cms/cms/Photo/img_0_77_5130_0_1_mVoRqr.webp",
+      "bookPrice": "100000",
+      "id": 3
+    },
+    {
+      "bookName": "Samsung S24 Ultra",
+      "bookImg": "https://object.pscloud.io/cms/cms/Photo/img_0_77_5801_0_1_PsA9N6.webp",
+      "bookPrice": "110000",
+      "id": 4
+    },
+    {
+      "bookName": "Квадрокоптер DJI Mavic Mini",
+      "bookImg": "https://object.pscloud.io/cms/cms/Photo/img_0_577_41_0.webp",
+      "bookPrice": "70000",
+      "id": 5
+    },
+    {
+      "bookName": "Samsung S21",
+      "bookImg": "https://object.pscloud.io/cms/cms/Photo/img_0_77_3669_0_6.webp",
+      "bookPrice": "40000",
+      "id": 6
+    },
+    {
+      "bookName": "DJI Osmo Mobile 6",
+      "bookImg": "https://bobbystore.kg/wa-data/public/shop/products/18/83/68318/images/23606/23606.970.png",
+      "bookPrice": "15000",
+      "id": 7
+    },
+    {
+      "bookName": "DJI Osmo Mobile 5",
+      "bookImg": "https://bobbystore.kg/wa-data/public/shop/products/38/55/15538/images/16502/16502.970.png",
+      "bookPrice": "14000",
+      "id": 8
+    },
+    {
+      "bookName": "Air Pods Pro 2",
+      "bookImg": "https://cdn1.it4profit.com/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/230913081126463007/230918065429720705.png@webp",
+      "bookPrice": "25000",
+      "id": 9
+    },
+    {
+      "bookName": "Air Pods Max",
+      "bookImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyti1Rv0cj8KWt6uKZJedBHPkgGf474sN0TkTKHm6Sw&s",
+      "bookPrice": "60000",
+      "id": 10
+    }
+  ]
+}
